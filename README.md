@@ -1,5 +1,5 @@
 # Data_Structures_and_Algorithms
-This is repository is meant to house some of the data strucutures and algorithms that I learnt as part of my course in Data Strucutres & Algorithms
+This is repository is meant to house some of the data structures and algorithms that I learnt as part of my course in Data Structures & Algorithms
 
 ## Tools 
 C++
